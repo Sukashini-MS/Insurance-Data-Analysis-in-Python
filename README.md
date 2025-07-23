@@ -13,6 +13,8 @@
 ### Project Overview
 An insurance agency, ABC Insurance, has a large dataset containing information about their policyholders and claims. They want to perform exploratory data analysis (EDA) on this dataset to gain insights that can help them make better business decisions and improve their operations.
 
+![Screenshot_24-3-2025_164153_lms simplilearn com](https://github.com/user-attachments/assets/5719ad09-2ce9-4bbc-bede-059ff234bff4)
+
 ### Project Description
 The agency wants to analyze the different body types and the environment that affect the premium. The disease's effect or the cost of treatment differs depending on the circumstances. For example, a smoker's medical insurance premium may be higher than that of a healthy person, because smokers are more likely to develop chronic diseases. The agency wants to analyze the data to research healthcare premium costs. 
 
@@ -43,7 +45,13 @@ insurance dataset (insurance.csv)
 6. Checked if the number of premium charges for smokers or non-smokers is increasing as they are aging.
 7. After each step, I had specified the observations.
 
+![Screenshot_24-3-2025_163959_lms simplilearn com](https://github.com/user-attachments/assets/1e14e5bc-2d13-4f49-9845-b475560bd8a6)
+
+![Screenshot_24-3-2025_164239_lms simplilearn com](https://github.com/user-attachments/assets/39392fd6-58e3-4edd-af67-5700f0ca77b3)
+
+![Screenshot_24-3-2025_164319_lms simplilearn com](https://github.com/user-attachments/assets/45ed1391-e3a0-4c41-a50d-265a47604007)
+
 ### Findings
-From the Analysis, we came to know that in each region the number of smokers is greater than the number of non-smokers  and among them the male smokers are dominating.
-As the age increases there is a gradual increase in the charges.
-Since most of the people is from the southeast region, the insurance charge is high in southeast region.
+- From the Analysis, we came to know that in each region the number of smokers is greater than the number of non-smokers  and among them the male smokers are dominating.
+- As the age increases there is a gradual increase in the charges.
+- Since most of the people is from the southeast region, the insurance charge is high in southeast region.
